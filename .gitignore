@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# build files
+dist/
+build/
+
+# environment files
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+
+# cache
+.cache/
+.temp/
+
+# editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
