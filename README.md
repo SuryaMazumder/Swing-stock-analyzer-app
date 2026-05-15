@@ -174,15 +174,20 @@ AI_MODEL=llama-3.1-8b-instant
 
 ## Home Page
 
-(Add screenshot here)
+<img width="1791" height="796" alt="image" src="https://github.com/user-attachments/assets/3546f8a0-ff03-40da-b541-a232a42b8efc" />
+
 
 ## Dashboard UI
 
-(Add screenshot here)
+<img width="1727" height="967" alt="image" src="https://github.com/user-attachments/assets/9b7670f1-5a0e-45f9-b196-45d57f189fb4" />
+
 
 ## Responsive Mobile View
 
-(Add screenshot here)
+<img width="408" height="733" alt="image" src="https://github.com/user-attachments/assets/7e06fed9-9ee6-4c42-a6f5-179d443150d2" />
+<img width="404" height="755" alt="image" src="https://github.com/user-attachments/assets/416d573c-cfc6-4bff-8fd6-d10432c55f7b" />
+
+
 
 ---
 
